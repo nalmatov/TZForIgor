@@ -20,19 +20,19 @@ npm run backend
 
 > [!NOTE]
 > У вас должно вывести:
-
-```bash
-♡⸜(˶˃ ᵕ ˂˶)⸝♡
-
-Index:
-http://localhost:3000/
-
-Static files:
-Serving ./public directory if it exists
-
-Endpoints:
-http://localhost:3000/seminars
-```
+>
+> ```bash
+> ♡⸜(˶˃ ᵕ ˂˶)⸝♡
+>
+> Index:
+> http://localhost:3000/
+>
+> Static files:
+> Serving ./public directory if it exists
+>
+> Endpoints:
+> http://localhost:3000/seminars
+> ```
 
 > <h3>Запустите Frontend</h3>
 
@@ -44,14 +44,14 @@ npm run dev
 
 > [!NOTE]
 > У вас должно вывести:
-
-```bash
-  VITE v6.1.0  ready in XXX ms
-
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-  ➜  press h + enter to show help
-```
+>
+> ```bash
+>   VITE v6.1.0  ready in XXX ms
+>
+>   ➜  Local:   http://localhost:5173/
+>   ➜  Network: use --host to expose
+>   ➜  press h + enter to show help
+> ```
 
 ---
 
