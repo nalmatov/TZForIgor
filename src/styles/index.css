@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.parent-h-full > * {
+  @apply h-full
+}
+
+.disabled-btn,
+.disabled-btn:hover {
+  @apply bg-green-600/50
+}

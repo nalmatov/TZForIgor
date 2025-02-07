@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.Toastify__toast-theme--dark {
+  background: var(--color-gray-800);
+}
