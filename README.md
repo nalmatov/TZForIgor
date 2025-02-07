@@ -18,7 +18,7 @@ npm install
 npm run backend
 ```
 
-> [!TIP]
+> [!NOTE]
 > У вас должно вывести:
 
 ```bash
@@ -42,7 +42,7 @@ npm run dev
 
 > <h3>Откройте локальный хост <a href="http://localhost:5173">http://localhost:5173</a></h3>
 
-> [!TIP]
+> [!NOTE]
 > У вас должно вывести:
 
 ```bash
